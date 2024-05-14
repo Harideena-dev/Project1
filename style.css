@@ -20,6 +20,10 @@
   align-items: center;
 }
 
+.gap{
+  margin-bottom: 50px !important;
+}
+
 /* Hover state */
 .btn-cl:hover {
   background-color: #0056b3; /* darker blue */
@@ -32,11 +36,57 @@
 
 .page1-para{
   animation: fadeIn 2s ease-in-out;
-  color: red;
+  color: silver;
   font-size: 15px;
   font-weight: 600;
   margin-left: 20%;
   margin-top: 30px;
+  margin-bottom: -30px !important;
+}
+.page1-para1{
+  animation: fadeIn 2s ease-in-out;
+  color: steelblue;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 20%;
+  margin-top: 30px;
+  margin-bottom: -30px !important;
+}
+.page1-para0{
+  animation: fadeIn 2s ease-in-out;
+  color: peru;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 20%;
+  margin-top: 30px;
+  margin-bottom: -30px !important;
+}
+.page1-para2{
+  animation: fadeIn 2s ease-in-out;
+  color: tomato;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 20%;
+  margin-top: 30px;
+  margin-bottom: -30px !important;
+}
+.page1-para3{
+  animation: fadeIn 2s ease-in-out;
+  color: violet;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 20%;
+  margin-top: 30px;
+  margin-bottom: -30px !important;
+}
+.page1-para4{
+  animation: fadeIn 2s ease-in-out;
+  color: gold;
+  font-size: 15px;
+  font-weight: 600;
+  margin-left: 20%;
+  margin-top: 30px;
+  margin-bottom: -30px !important;
 }
 .page1-head{
   color: green;
